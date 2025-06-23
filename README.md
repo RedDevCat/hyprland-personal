@@ -10,3 +10,5 @@
 - kitty
 - waybar
 - wofi
+
+#### ref: [here](https://github.com/typecraft-dev/dotfiles)
